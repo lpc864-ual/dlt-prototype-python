@@ -20,8 +20,8 @@ This project implements a simple Distributed Ledger Technology (DLT) prototype b
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/dlt-python.git
-cd dlt-python
+git clone https://github.com/yourusername/dlt-prototype-python.git
+cd dlt-prototype-python
 ```
 
 No additional installation is required.
